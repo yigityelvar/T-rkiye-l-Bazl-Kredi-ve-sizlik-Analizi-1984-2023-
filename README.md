@@ -27,10 +27,6 @@ matplotlib
 seaborn
 openpyxl
 
-🚀 Kurulum:
-git clone https://github.com/YOUR_USERNAME/Turkiye-Kredi-Analizi.git
-cd Turkiye-Kredi-Analizi
-pip install -r requirements.txt
 
 🧪 Kullanım:
 jupyter notebook
